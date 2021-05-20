@@ -12,7 +12,7 @@ public class TestCase1 {
 		ReuseableBlock reu = new  ReuseableBlock();
 		
 		reu.ValidateHeadrer(10);
-		
+		System.out.println();
 		
 	}
 
